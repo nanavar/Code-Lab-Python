@@ -1,0 +1,2 @@
+#   Najdi najmanjše pozitivno število
+
